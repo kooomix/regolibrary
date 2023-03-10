@@ -5910,8 +5910,8 @@
                         "name": "CNI Plugin",
                         "id": "4.4",
                         "controlsIDs": [
-                            "C-0206",
-                            "C-0205"
+                            "C-0205",
+                            "C-0206"
                         ]
                     },
                     "5": {
@@ -6702,9 +6702,9 @@
                         "name": "Image Registry and Image Scanning",
                         "id": "5.1",
                         "controlsIDs": [
+                            "C-0078",
                             "C-0221",
-                            "C-0223",
-                            "C-0078"
+                            "C-0223"
                         ]
                     },
                     "2": {
